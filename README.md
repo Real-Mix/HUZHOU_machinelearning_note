@@ -5,3 +5,5 @@
 * 待更新：
    1. 迁徙所有文字到obsidian
    2. 增加Deep Learning 部分
+ 
+* 推荐材料：来自UIUC的 Ruoqing Zhu：https://teazrq.github.io/SMLR/
