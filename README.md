@@ -7,3 +7,14 @@
    2. 增加Deep Learning 部分
  
 * 推荐材料：来自UIUC的 Ruoqing Zhu：https://teazrq.github.io/SMLR/
+
+## 目录
+
+| 内容 | 位置 |
+| --- | --- |
+| 《统计学习方法》第 1–10 章笔记 | `第N章 *.ipynb`（附同名 PDF 导出版） |
+| 课程 PPT 与数学/工具回顾 | `ppt/` |
+| 《统计学习方法》第 2 版课件 | `《统计学习方法》第2版课件/` |
+| 期中考试题与复习 | `机器学习期中考试题.pdf`、`机器学习期中考试.ipynb`、`机器学习复习.pdf` |
+| 数据集 | `*.csv`、`glass.data`、`trainingDigits.zip`、`testDigits.zip`、`ml_models.zip` |
+| 参考书 | PRML、ESL、李航《统计学习方法》等 PDF |
